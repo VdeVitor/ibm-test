@@ -1,4 +1,6 @@
-# Informações para exectuar a aplicação
+# Desafio para vaga de desenvolvedor WEB na WDG Automation - an IBM Company
+
+## Informações para exectuar a aplicação
 
 Projeto criado via Create-React-App (React), utilizando das tecnologias: `Material UI`, `Axios` e `React Router Dom`.
 
