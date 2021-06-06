@@ -4,14 +4,15 @@ Projeto criado via Create-React-App (React), utilizando das tecnologias: `Materi
 
 ## Scripts para execução
 
-Para startar a aplicação, você deve executar o seguinte comando:
+Para instalar o projeto na sua máquina utilizando npm, você deve executar:
+
+### `npm install`
+
+Executando este comando, o gerenciador de pacotes do Node instalará as dependências necessárias para rodar a aplicação.
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Executando este comando, a aplicação será startada e sua execução acontecerá no navegador padrão ou que estiver utilizando
+no endereço: [http://localhost:3000](http://localhost:3000)
 
 
