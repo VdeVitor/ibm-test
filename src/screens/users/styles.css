@@ -1,0 +1,41 @@
+.background {
+  display: grid;
+  place-items: center;
+  margin-top: 2rem;
+}
+
+.appBar {
+  flex-grow: 1;
+}
+
+.toolbar {
+  background-color: #b278d3;
+}
+
+.lista {
+  width: '100%';
+  max-width: 360;
+}
+
+.texto {
+  color: #7c7c7c;
+}
+
+.botao {
+  margin-top: 2rem;
+}
+
+/*------ Edit User ------*/
+
+.avatar{
+  margin: auto;
+}
+
+.formulario {
+  margin: 2rem;
+}
+
+.botoes {
+  display: flex;
+  justify-content: center;
+}
