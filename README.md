@@ -1,8 +1,11 @@
 # Desafio para vaga de desenvolvedor na WDG Automation - an IBM Company
 
 Autor do projeto: Vitor Oliveira de Vasconcelos Silva
+
 Vaga pretendida: Desenvolvedor Web
+
 Data do desafio: 02/06/2021
+
 Data de Entrega: 07/06/2021
 
 ## Informações para exectuar a aplicação
